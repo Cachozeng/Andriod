@@ -1,6 +1,6 @@
 @echo off
 f:
-cd F:\SoftwareTest\Github\02 InterfaceTest
+cd F:\SoftwareTest\Github\23 Andriod
 
 git add .
 set /p input=请输入备注信息：
